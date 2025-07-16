@@ -1,0 +1,490 @@
+{
+  "promises": [
+    {
+      "book": "Salmos",
+      "chapter": 23,
+      "verse": 1,
+      "text": "Jehová es mi pastor; nada me faltará."
+    },
+    {
+      "book": "Jeremías",
+      "chapter": 29,
+      "verse": 11,
+      "text": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 41,
+      "verse": 10,
+      "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 19,
+      "text": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 28,
+      "text": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia."
+    },
+    {
+      "book": "Mateo",
+      "chapter": 11,
+      "verse": 28,
+      "text": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."
+    },
+    {
+      "book": "Juan",
+      "chapter": 14,
+      "verse": 27,
+      "text": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 7,
+      "text": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 34,
+      "verse": 17,
+      "text": "Claman los justos, y Jehová oye, y los libra de todas sus angustias."
+    },
+    {
+      "book": "Josué",
+      "chapter": 1,
+      "verse": 9,
+      "text": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas."
+    },
+    {
+      "book": "Deuteronomio",
+      "chapter": 31,
+      "verse": 6,
+      "text": "Esforzaos y cobrad ánimo; no temáis, ni tengáis miedo de ellos, porque Jehová tu Dios es el que va contigo; no te dejará, ni te desamparará."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 91,
+      "verse": 1,
+      "text": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 40,
+      "verse": 31,
+      "text": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán."
+    },
+    {
+      "book": "Mateo",
+      "chapter": 6,
+      "verse": 33,
+      "text": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas."
+    },
+    {
+      "book": "Juan",
+      "chapter": 3,
+      "verse": 16,
+      "text": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 13,
+      "text": "Porque todo aquel que invocare el nombre del Señor, será salvo."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 13,
+      "text": "Todo lo puedo en Cristo que me fortalece."
+    },
+    {
+      "book": "1 Juan",
+      "chapter": 1,
+      "verse": 9,
+      "text": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 18,
+      "verse": 10,
+      "text": "Torre fuerte es el nombre de Jehová; a él correrá el justo, y será levantado."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 46,
+      "verse": 1,
+      "text": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 31,
+      "text": "¿Qué, pues, diremos a esto? Si Dios es por nosotros, ¿quién contra nosotros?"
+    },
+    {
+      "book": "2 Timoteo",
+      "chapter": 1,
+      "verse": 7,
+      "text": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio."
+    },
+    {
+      "book": "Hebreos",
+      "chapter": 13,
+      "verse": 5,
+      "text": "Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo: No te desampararé, ni te dejaré."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 55,
+      "verse": 22,
+      "text": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo."
+    },
+    {
+      "book": "Juan",
+      "chapter": 16,
+      "verse": 33,
+      "text": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo."
+    },
+    {
+      "book": "1 Corintios",
+      "chapter": 10,
+      "verse": 13,
+      "text": "No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 121,
+      "verse": 2,
+      "text": "Mi ayuda viene de Jehová, que hizo los cielos y la tierra."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 43,
+      "verse": 2,
+      "text": "Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 37,
+      "verse": 4,
+      "text": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 13,
+      "text": "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 32,
+      "verse": 8,
+      "text": "Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 16,
+      "verse": 3,
+      "text": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 138,
+      "verse": 8,
+      "text": "Jehová cumplirá su propósito en mí; tu misericordia, oh Jehová, es para siempre; no desampares la obra de tus manos."
+    },
+    {
+      "book": "2 Corintios",
+      "chapter": 12,
+      "verse": 9,
+      "text": "Y me ha dicho: Bástate mi gracia; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 27,
+      "verse": 1,
+      "text": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?"
+    },
+    {
+      "book": "Isaías",
+      "chapter": 26,
+      "verse": 3,
+      "text": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 9,
+      "verse": 10,
+      "text": "En ti confiarán los que conocen tu nombre, por cuanto tú, oh Jehová, no desamparaste a los que te buscaron."
+    },
+    {
+      "book": "Lamentaciones",
+      "chapter": 3,
+      "verse": 22,
+      "text": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 16,
+      "verse": 8,
+      "text": "A Jehová he puesto siempre delante de mí; porque está a mi diestra, no seré conmovido."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 54,
+      "verse": 10,
+      "text": "Porque los montes se moverán, y los collados temblarán, pero no se apartará de ti mi misericordia, ni el pacto de mi paz se quebrantará, dijo Jehová, el que tiene misericordia de ti."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 37,
+      "verse": 5,
+      "text": "Encomienda a Jehová tu camino, y confía en él; y él hará."
+    },
+    {
+      "book": "Juan",
+      "chapter": 14,
+      "verse": 1,
+      "text": "No se turbe vuestro corazón; creéis en Dios, creed también en mí."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 118,
+      "verse": 6,
+      "text": "Jehová está conmigo; no temeré lo que me pueda hacer el hombre."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 12,
+      "verse": 2,
+      "text": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 62,
+      "verse": 8,
+      "text": "En Dios solamente está acallada mi alma; de él viene mi salvación."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 29,
+      "verse": 25,
+      "text": "El temor del hombre pondrá lazo; mas el que confía en Jehová será exaltado."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 145,
+      "verse": 18,
+      "text": "Cercano está Jehová a todos los que le invocan, a todos los que le invocan de veras."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "text": "Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 34,
+      "verse": 8,
+      "text": "Gustad, y ved que es bueno Jehová; dichoso el hombre que confía en él."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 58,
+      "verse": 11,
+      "text": "Jehová te pastoreará siempre, y en las sequías saciará tu alma, y dará vigor a tus huesos; y serás como huerto de riego, y como manantial de aguas, cuyas aguas nunca faltan."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 91,
+      "verse": 4,
+      "text": "Con sus plumas te cubrirá, y debajo de sus alas estarás seguro; escudo y adarga es su verdad."
+    },
+    {
+      "book": "1 Juan",
+      "chapter": 5,
+      "verse": 14,
+      "text": "Y esta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos oye."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 37,
+      "verse": 23,
+      "text": "Por Jehová son ordenados los pasos del hombre, y él aprueba su camino."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 3,
+      "verse": 6,
+      "text": "Reconócelo en todos tus caminos, y él enderezará tus veredas."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 107,
+      "verse": 9,
+      "text": "Porque sacia al alma menesterosa, y llena de bien al alma hambrienta."
+    },
+    {
+      "book": "Mateo",
+      "chapter": 28,
+      "verse": 20,
+      "text": "Enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 18,
+      "verse": 2,
+      "text": "Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré; mi escudo, y la fuerza de mi salvación, mi alto refugio."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 49,
+      "verse": 16,
+      "text": "He aquí que en las palmas de mis manos te tengo esculpida; delante de mí están siempre tus muros."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 119,
+      "verse": 105,
+      "text": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 4,
+      "text": "Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 103,
+      "verse": 13,
+      "text": "Como el padre se compadece de los hijos, se compadece Jehová de los que le temen."
+    },
+    {
+      "book": "Jeremías",
+      "chapter": 33,
+      "verse": 3,
+      "text": "Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 147,
+      "verse": 3,
+      "text": "El sana a los quebrantados de corazón, y venda sus heridas."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 65,
+      "verse": 24,
+      "text": "Y antes que clamen, responderé yo; mientras aún hablan, yo habré oído."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 30,
+      "verse": 5,
+      "text": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría."
+    },
+    {
+      "book": "2 Tesalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Pero fiel es el Señor, que os afirmará y guardará del mal."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 28,
+      "verse": 7,
+      "text": "Jehová es mi fortaleza y mi escudo; en él confió mi corazón, y fui ayudado, por lo que se gozó mi corazón, y con mi cántico le alabaré."
+    },
+    {
+      "book": "1 Corintios",
+      "chapter": 2,
+      "verse": 9,
+      "text": "Antes bien, como está escrito: Cosas que ojo no vio, ni oído oyó, ni han subido en corazón de hombre, son las que Dios ha preparado para los que le aman."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 126,
+      "verse": 5,
+      "text": "Los que sembraron con lágrimas, con regocijo segarán."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 55,
+      "verse": 11,
+      "text": "Así será mi palabra que sale de mi boca; no volverá a mí vacía, sino que hará lo que yo quiero, y será prosperada en aquello para que la envié."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 37,
+      "verse": 25,
+      "text": "Joven fui, y he envejecido, y no he visto justo desamparado, ni su descendencia que mendigue pan."
+    },
+    {
+      "book": "Juan",
+      "chapter": 15,
+      "verse": 7,
+      "text": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será hecho."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 25,
+      "verse": 14,
+      "text": "La comunión íntima de Jehová es con los que le temen, y a ellos hará conocer su pacto."
+    },
+    {
+      "book": "Proverbios",
+      "chapter": 1,
+      "verse": 33,
+      "text": "Mas el que me oyere, habitará confiadamente y vivirá tranquilo, sin temor del mal."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 32,
+      "verse": 7,
+      "text": "Tú eres mi refugio; me guardarás de la angustia; con cánticos de liberación me rodearás."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 30,
+      "verse": 15,
+      "text": "Porque así dijo Jehová el Señor, el Santo de Israel: En descanso y en reposo seréis salvos; en quietud y en confianza será vuestra fortaleza."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 20,
+      "verse": 4,
+      "text": "Te dé conforme a tu corazón, y cumpla todo tu consejo."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 5,
+      "text": "Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado."
+    },
+    {
+      "book": "Salmos",
+      "chapter": 31,
+      "verse": 24,
+      "text": "Esforzaos todos vosotros los que esperáis en Jehová, y tome aliento vuestro corazón."
+    },
+    {
+      "book": "Isaías",
+      "chapter": 44,
+      "verse": 22,
+      "text": "Yo deshice como una nube tus rebeliones, y como niebla tus pecados; vuélvete a mí, porque yo te redimí."
+    }
+  ]
+}
