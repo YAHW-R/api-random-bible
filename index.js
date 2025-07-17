@@ -1,5 +1,7 @@
 //importing express module to create the Api REST
 import express from 'express';
+
+import cors from 'cors'
 //importing the module to management bible
 import Bible from './bd-bible/bible.js';
 //importing the module to management the promise verses
@@ -7,6 +9,20 @@ import Promise from './bd-bible/promise.js';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+app.use(cors({
+    origin: (origin, callback) => {
+        if(origin === process.env.ORIGIN_APP) {
+            return callback(null, true);
+        }
+
+        if (!origin) {
+            return callback(null, true);
+        }
+
+        return callback(new Error('not alowed by cors'))
+    }
+}))
 
 const getRandom = (max) => {
     return Math.floor(Math.random() * max) + 1
