@@ -10,19 +10,7 @@ import Promise from './bd-bible/promise.js';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors({
-    origin: (origin, callback) => {
-        if(origin === process.env.ORIGIN_APP) {
-            return callback(null, true);
-        }
-
-        if (!origin) {
-            return callback(null, true);
-        }
-
-        return callback(new Error('not alowed by cors'))
-    }
-}))
+app.use(cors())
 
 const getRandom = (max) => {
     return Math.floor(Math.random() * max) + 1
