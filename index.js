@@ -10,7 +10,32 @@ import Promise from './bd-bible/promise.js';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors())
+app.use(cors(
+    {
+        origin: (origin, calback) => {
+            const ACCEPTED_ORIGINS = [
+                'https://roi.com',
+                'https://roi-react.vercel.app',
+                'http://localhost:3000',
+                'http://localhost:8080'
+            ]
+
+            if(origin == process.env.PAGE_URL) {
+                return calback(null, true);
+            }
+
+            if(ACCEPTED_ORIGINS.includes(origin)) {
+                return calback(null, true)
+            }
+
+            if(!origin) {
+                return calback(null, true)
+            }
+
+            return calback(new Error('este origen no puede acceder'))
+        }
+    }
+))
 
 const getRandom = (max) => {
     return Math.floor(Math.random() * max) + 1
